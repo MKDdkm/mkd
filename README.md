@@ -112,7 +112,7 @@ const mourya = {
 
 ---
 
-## 
+## connect 
 
 <div align="center">
 
@@ -124,7 +124,7 @@ const mourya = {
 
 ---
 
-## 
+## open to
 
 
 <div align="center">
