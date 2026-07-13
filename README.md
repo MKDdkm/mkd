@@ -112,7 +112,7 @@ const mourya = {
 
 ---
 
-## 🚀 Open To
+## 
 
 <div align="center">
 
