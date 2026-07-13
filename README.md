@@ -124,7 +124,7 @@ const mourya = {
 
 ---
 
-##  Connect with me 
+## 
 
 
 <div align="center">
