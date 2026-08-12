@@ -37,7 +37,6 @@ const mourya = {
 
 ---
 
-## 🛠️ Tech Stack
 
 <table>
 <tr>
